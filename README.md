@@ -18,3 +18,7 @@ from tensorflow.keras.optimizers import Adam
 import keras
 import tensorflow_addons as tfa
 import tensorflow as tf
+
+.zip檔裡是訓練資料集全部都需要才能解壓縮
+
+test是訓練完後拿來測試的照片
